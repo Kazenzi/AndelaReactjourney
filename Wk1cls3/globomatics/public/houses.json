@@ -1,0 +1,49 @@
+[{
+    "id":1,
+    "address":"Nairobi west",
+    "country":"Kenya",
+    "price":"12000",
+    "Description":"Prettty fam house",
+    "photo":"house"
+
+},
+{
+    "id":2,
+    "address":"Nairobi south",
+    "country":"Kenya",
+    "price":"15000",
+    "Description":"Prettty fam house",
+    "photo":"house"
+
+},
+{
+    "id":2,
+    "address":"Nairobi south",
+    "country":"Kenya",
+    "price":"15000",
+    "Description":"Prettty fam house",
+    "photo":"house"
+
+},
+{
+    "id":2,
+    "address":"Ug south",
+    "country":"Uganda",
+    "price":"15000",
+    "Description":"Prettty fam house",
+    "photo":"house"
+
+},
+{
+    "id":2,
+    "address":"Ug south",
+    "country":"Uganda",
+    "price":"15000",
+    "Description":"Prettty fam house",
+    "photo":"house"
+
+}
+
+
+
+]
